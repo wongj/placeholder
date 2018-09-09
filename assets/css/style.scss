@@ -1,3 +1,7 @@
-.header, .footer {
+---
+---
+@import "{{ site.theme }}";
+
+.footer {
   display: none;
 }
