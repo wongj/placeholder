@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-footer {
+section .vis {
+  max-width: 720px;
+}
+
+footer, .view {
   display: none;
 }
