@@ -12,4 +12,4 @@
 
 # Visualisation
 
-<img src="https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png" width="720px">
+<img class="vis" src="https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png" width="720px">
