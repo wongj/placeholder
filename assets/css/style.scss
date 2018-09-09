@@ -7,8 +7,14 @@ section .vis {
 }
 
 header:before {
-  content: url(https://raw.githubusercontent.com/wongj/placeholder/master/placeholder.png); 
+  content: url(); 
   width: 300px;
+  background-image: url(https://raw.githubusercontent.com/wongj/placeholder/master/placeholder.png);
+  background-size: 300px 300px;
+  display: inline-block;
+  width: 300px; 
+  height: 300px;
+  content:"";
 }
 
 footer, .view {
