@@ -1,6 +1,6 @@
 # About
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-EwwJnJPs8A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<iframe width="720px" height="600px" src="https://www.youtube.com/embed/-EwwJnJPs8A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
   
 # Interactive map
 
@@ -8,4 +8,4 @@
   
 # Visualisation
 
-![tableau](https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png)
+![tableau](https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png =720x)
