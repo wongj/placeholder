@@ -7,8 +7,6 @@ section .vis {
 }
 
 header:before {
-  content: url(); 
-  width: 300px;
   background-image: url(https://raw.githubusercontent.com/wongj/placeholder/master/placeholder.png);
   background-size: 300px 300px;
   display: inline-block;
