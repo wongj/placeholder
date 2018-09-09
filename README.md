@@ -12,4 +12,4 @@
 
 # Visualisation
 
-<iframe style="width: 720px; height: 714px; border: none;" src="https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png" allowFullScreen mozAllowFullScreen webkitAllowFullScreen></iframe>
+<img src="https://raw.githubusercontent.com/wongj/placeholder/master/tableau.png" width="720px">
